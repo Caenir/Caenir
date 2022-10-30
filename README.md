@@ -1,9 +1,9 @@
 ## Olá, me chamo Alef e sou estudante de programação!
 
 <div align="center">
-  <a href="https://github.com/caenir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caenir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caenir&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/AlefVaz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlefVaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefVaz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
 
@@ -28,6 +28,6 @@
   <a href = "mailto:alef.l.vaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alef-vaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/caenir/caenir/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AlefVaz/AlefVaz/blob/output/github-contribution-grid-snake.svg)
  </div>
 </div>
